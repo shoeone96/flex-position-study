@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+
+.pro-1-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    color: white;
+}
+
+.right-box-controller {
+    display: flex;
+}
+
+.right-box-controller > div {
+    margin-left: 10px;
+}

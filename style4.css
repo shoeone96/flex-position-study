@@ -1,0 +1,17 @@
+.outer-div{
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color: black;
+    position: relative;
+}
+
+.inner-div{
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color: gray;
+    position: absolute;
+    top: 60px;
+    left: 60px;
+}
